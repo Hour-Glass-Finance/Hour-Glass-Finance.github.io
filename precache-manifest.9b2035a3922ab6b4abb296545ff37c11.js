@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/watermark.4dbecfaf.png"
   },
   {
-    "revision": "82b0e3bcda1db17a3651c0c3431a1890",
+    "revision": "24dc1c872fee871aa45ec3b48a97cb53",
     "url": "/index.html"
   },
   {
@@ -70,14 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c3c1bffdaf0e87f3049c",
     "url": "/js/chunk-vendors.9c49b3d7.js"
-  },
-  {
-    "revision": "0e5ddba1fe896e23f5b9a4e8de69a54f",
-    "url": "/js/vconsole.min.js"
-  },
-  {
-    "revision": "868648fbd8c8990fb85c25898ab13449",
-    "url": "/js/web3.min.js"
   },
   {
     "revision": "07fa5c177b02bb664865b217cf6a0590",
