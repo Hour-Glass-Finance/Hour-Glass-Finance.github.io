@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.12c36eacc6d115af51be41691767b690.js"
+  "/precache-manifest.e1123507715ec718683701106bbeb48c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "project-hourglass"});
