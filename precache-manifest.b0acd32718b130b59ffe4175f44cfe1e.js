@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "984115a1b9f2d6bd4cce",
+    "revision": "8c4aa46cf778a2a181c8",
     "url": "/css/about.b2328c3e.css"
   },
   {
-    "revision": "a06e1f266dbf177a3c28",
+    "revision": "69b64be43e00a19299a6",
     "url": "/css/app.900433a6.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/connect_wallet.6df2d3e8.png"
   },
   {
-    "revision": "f21db94fd2a3ec2644bfef0bb51ee732",
-    "url": "/img/hourUSD.f21db94f.png"
+    "revision": "7a28df4e83577e8452bf9095c0115f94",
+    "url": "/img/hourUSD.7a28df4e.png"
   },
   {
     "revision": "5a1071a3752b6db26ec93900e1159d4b",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/watermark.4dbecfaf.png"
   },
   {
-    "revision": "e9017378ce1629e649ff5535c436a873",
+    "revision": "98abf60ef944a0083912503167dc2a3a",
     "url": "/index.html"
   },
   {
-    "revision": "984115a1b9f2d6bd4cce",
-    "url": "/js/about.b46c72f7.js"
+    "revision": "8c4aa46cf778a2a181c8",
+    "url": "/js/about.8bfdcf85.js"
   },
   {
-    "revision": "a06e1f266dbf177a3c28",
-    "url": "/js/app.405fec4e.js"
+    "revision": "69b64be43e00a19299a6",
+    "url": "/js/app.f4ac2d2f.js"
   },
   {
     "revision": "f800d61ddf8a109db0c8",
